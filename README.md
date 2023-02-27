@@ -15,7 +15,7 @@
 
 |  마라탕 살인마  | 의정부핵꿀밤 |
 | :----------------: | :----------------: |
-|<img src="https://avatars.githubusercontent.com/u/76032947?v=4" height=350" width="350"/> | <img src="https://avatars.githubusercontent.com/u/79418036?v=4" height="350" width="350"/> |
+|<img src="https://avatars.githubusercontent.com/u/76032947?v=4" height="350" width="350"/> | <img src="https://avatars.githubusercontent.com/u/79418036?v=4" height="350" width="350"/> |
 |[황하림](https://github.com/HwangHarim)|[염지원](https://github.com/xx10222) |
 |내게 마라탕은 살인이다..|👑퀸벨로퍼👑|
 
