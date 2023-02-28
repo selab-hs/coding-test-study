@@ -1,12 +1,17 @@
 import java.util.*;
 
 public class Solution {
-    public int[] solution(int []arr) {
-        int[] answer = {};
-        
-        // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
-        System.out.println("Hello Java");
+    public int[] solution(int[] arr) {
+    List<Integer> stack = new ArrayList<>();
 
-        return answer;
+    for(int i=1; i<arr.length; i++) {
+        if(!(arr[i-1] == arr[i])) {
+            stack.add(arr[i - 1]);
+        }
+    }
+    
+    stack.add(arr[arr.length-1]);
+
+    return stack.stream().mapToInt(value -> value).toArray();
     }
 }
