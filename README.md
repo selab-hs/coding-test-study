@@ -16,7 +16,7 @@
 |  마라탕 살인마  | | |
 | :----------------: | :----------------: |  :----------------: |
 |<img src="https://avatars.githubusercontent.com/u/76032947?v=4" height="350" width="350"/> | <img src="https://avatars.githubusercontent.com/u/61265675?v=4" height="350" width="350"/> |<img src="https://avatars.githubusercontent.com/u/108856498?v=4" height="350" width="350"/>|
-|[황하림](https://github.com/HwangHarim)|[이상호](https://github.com/LSH-3016)|[이상호](https://github.com/LSH-3016)|[김기현](https://github.com/KimKiHyun0206)|
+|[황하림](https://github.com/HwangHarim)|[이상호](https://github.com/LSH-3016)|[김기현](https://github.com/KimKiHyun0206)|
 |내게 마라탕은 살인이다..| | |
 
 </div>
