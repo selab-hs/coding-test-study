@@ -1,3 +1,4 @@
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -10,7 +11,7 @@ class Solution {
         count.add(N);
         count2.add(N);
 
-        for(int i=1; i<9; i++) {
+        for(int i=2; i<9; i++) {
             for(int a : count) {
                 if(number == a) {
                     return cnt;
@@ -18,6 +19,7 @@ class Solution {
 
                 count2.add(plus(a, N));
                 count2.add(minus(a, N));
+                count2.add(minus(N, a));
                 count2.add(multiplication(a, N));
                 count2.add(division(a, N));
                 count2.add(a * 10 + N);
