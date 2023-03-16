@@ -2,7 +2,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+class Solution { // 
     public int solution(int N, int number) {
         Set<Integer> count = new HashSet<>();
         Set<Integer> count2 = new HashSet<>();
@@ -19,7 +19,6 @@ class Solution {
 
                 count2.add(plus(a, N));
                 count2.add(minus(a, N));
-                count2.add(minus(N, a));
                 count2.add(multiplication(a, N));
                 count2.add(division(a, N));
                 count2.add(a * 10 + N);
